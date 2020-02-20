@@ -1,0 +1,18 @@
+###LibreOffice backup files###
+input/.~
+input/.~lock.datasources.csv#
+
+###VirtualEnv Py###
+venv/
+
+###IDE Pychamr###
+.idea/
+
+###Output files###
+output/*
+!/output/meta/*.forgit
+!/output/data/*.forgit
+
+### R ###
+src/.RData
+src/.Rhistory
